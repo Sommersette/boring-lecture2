@@ -4,7 +4,7 @@ img.intro {
   position: fixed;
   top: 0;
   left: 0;
-  bottom: 0;
+
 
 }
 
@@ -12,7 +12,7 @@ body {
   text-align: center;
 }
 
-p.intro {
+.intro {
   font-weight: bold;
   color: green;
   font-family: monospace;
@@ -26,6 +26,6 @@ p {
 h1 {
   font-size: 55px;
 }
-h2.intro {
+h2 {
   font-size: 30px;
 }
